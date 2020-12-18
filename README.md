@@ -47,11 +47,13 @@ If I come back to tinker with this project, I want to figure out how to:
 * figure out how to make the webpage styling look nice when you change the window size, on a mobile device, etc.
 
 <!-- Screenshot of working application -->
+
 <img src="./assets/completed_screenshot.png" alt="Screenshot of Horiseon webpage">
 
 # Installation
 
-Simply follow the link and view the webpage.
+Simply follow this link and view the webpage.
+https://dorrianweber.github.io/horiseon_code-refactor/
 
 # Usage
 
