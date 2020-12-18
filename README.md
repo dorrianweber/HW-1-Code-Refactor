@@ -46,7 +46,7 @@ If I come back to tinker with this project, I want to figure out how to:
 * fix the errors I caused when I tried to change the method in which the aforementioned image was incorporated.
 * figure out how to make the webpage styling look nice when you change the window size, on a mobile device, etc.
 
-![screenshot of Horiseon wepage](./assets/completed_screenshot.png)
+<img src="./assets/completed_screenshot.png" alt="Screenshot of Horiseon webpage">
 
 # Installation
 
